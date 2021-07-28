@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CSELINGUA
 - 👀 I’m interested in Desktop develoment and machine learning models
-- 🌱 I’m currently learning advanced Kotlin for android development and python
+- 🌱 I do advanced Kotlin for android development
+- C++ savvy, Java lover, MySQL and Microsoft Foxpro savvy
 - 💞️ I’m looking to collaborate on Centralized systems and technologies
 - 📫 reach me on salcsjoe@gmail.com
 
